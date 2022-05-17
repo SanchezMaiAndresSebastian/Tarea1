@@ -16,3 +16,14 @@
 - Diferenciar las partes de una herramienta electrica
 - Concocer como funciona el multimetro
 - Consultar la nomenclatura de colores y valores parar las resistencias.
+
+### 2. MARCO TEORICO
+
+### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+### 4. VIDEO
+
+### 5. CONCLUSIONES
+- Las notaciones Cientifica permite que exista mayor infromacion en un minimo espacio, con el cual se puede evitar varios errores humanos, esto está con el fin de poder hacer varios calculos aproxiados de cantidades demasiades grandes o pequeñas con una mayor nitidez.
+- Las notaciones de ingernieria, permiten un mayor aprovechamiento visual de la cantidad que se esta teniendo mediante un sufijo a la expresión de 
+### 6. BIBLIOGRAFÍA
