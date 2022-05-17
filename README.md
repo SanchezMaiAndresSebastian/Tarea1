@@ -1,6 +1,7 @@
 # Tarea1
 ## Cantidades y unidades - Voltaje, corriente y resistencia
-### VOLTAJE, CORRIENTE Y RESISTENCIA
+## VOLTAJE, CORRIENTE Y RESISTENCIA
+### 1.	OBJETIVOS
 **Principales**
 
  - Experimentar con las Leyes de Kirchhoff y los circuitos mixtos.
