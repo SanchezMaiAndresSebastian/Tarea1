@@ -4,8 +4,8 @@
 ### 1.	OBJETIVOS
 **Principales**
 
- - Experimentar con las Leyes de Kirchhoff y los circuitos mixtos.
- - Construir un circuito.
+ - Lograr comprender el uso de las notaciones cientificas en la notaciones ceintificas con sus operaciones.
+ - Resolver los problemas planteados por el libro 
 
 **Específicos**
 
