@@ -26,6 +26,7 @@
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/6.jpg)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/7.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/8.webp)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/30.jpg)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0001.jpg)
