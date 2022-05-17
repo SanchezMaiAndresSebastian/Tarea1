@@ -46,8 +46,8 @@ En este caso sed puede observara que para hacer operaciones de suma o de resta s
 ### 4. VIDEO
 
 ### 5. CONCLUSIONES
-- Las notaciones Cientifica permite que exista mayor infromacion en un minimo espacio, con el cual se puede evitar varios errores humanos, esto está con el fin de poder hacer varios calculos aproxiados de cantidades demasiades grandes o pequeñas con una mayor nitidez.
-- Las notaciones de ingernieria, permiten un mayor aprovechamiento visual de la cantidad que se esta teniendo mediante un sufijo a la expresión de la cantidad del sistema internacional.
+- Las notaciones Cientifica permite que exista mayor informacion en un minimo espacio, con el cual se puede evitar varios errores humanos, esto está con el fin de poder hacer varios calculos de numeros demasiades grandes o pequeñas con una mayor nitidez.
+- Las notaciones de ingenieria, permiten un mayor aprovechamiento más especializada de la representación de números bien grandes o bien pequeños de la cantidad que se utiliza en los campos técnicos y esto se representa mediante un prefijo a la expresión de la cantidad del sistema internacional.
 - El elemento de prefernecia siempre va a ser el cobre por us propiedades conductoras y sus relación calidad precio.
 ### 6. BIBLIOGRAFÍA
 - Dorf, R. C., & Svoboda, J. A. (2010). Introduction to Electric Circuits (8.a ed.). John Wiley & Sons Inc.
