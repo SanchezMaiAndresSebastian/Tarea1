@@ -31,6 +31,7 @@
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0001.jpg)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0002.jpg)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0003.jpg)
+En este caso sed puede observara que para hacer operaciones de suma o de resta se tiene que igualar la expresion hasta que sean de la misa base de exponente y de ahi a proceder a calcular
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0004.jpg)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0005.jpg)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0006.jpg)
