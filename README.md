@@ -45,6 +45,8 @@ En este caso sed puede observara que para hacer operaciones de suma o de resta s
 
 ### 4. VIDEO
 
+https://uespe-my.sharepoint.com/:v:/g/personal/assanchez11_espe_edu_ec/EbIaHiTtY6xIv5KFuTlsjRYBRXpcoJvGrky0BO0A6MrGeg?email=assanchez11%40espe.edu.ec
+
 ### 5. CONCLUSIONES
 - Las notaciones Cientifica permite que exista mayor informacion en un minimo espacio, con el cual se puede evitar varios errores humanos, esto está con el fin de poder hacer varios calculos de numeros demasiades grandes o pequeñas con una mayor nitidez.
 - Las notaciones de ingenieria, permiten un mayor aprovechamiento más especializada de la representación de números bien grandes o bien pequeños de la cantidad que se utiliza en los campos técnicos y esto se representa mediante un prefijo a la expresión de la cantidad del sistema internacional.
