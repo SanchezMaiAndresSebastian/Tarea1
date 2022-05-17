@@ -25,5 +25,8 @@
 
 ### 5. CONCLUSIONES
 - Las notaciones Cientifica permite que exista mayor infromacion en un minimo espacio, con el cual se puede evitar varios errores humanos, esto está con el fin de poder hacer varios calculos aproxiados de cantidades demasiades grandes o pequeñas con una mayor nitidez.
-- Las notaciones de ingernieria, permiten un mayor aprovechamiento visual de la cantidad que se esta teniendo mediante un sufijo a la expresión de 
+- Las notaciones de ingernieria, permiten un mayor aprovechamiento visual de la cantidad que se esta teniendo mediante un sufijo a la expresión de la cantidad del sistema internacional.
+- El elemento de prefernecia siempre va a ser el cobre por us propiedades conductoras y sus relación calidad precio.
 ### 6. BIBLIOGRAFÍA
+- Dorf, R. C., & Svoboda, J. A. (2010). Introduction to Electric Circuits (8.a ed.). John Wiley & Sons Inc.
+- Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
