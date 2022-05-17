@@ -18,8 +18,29 @@
 - Consultar la nomenclatura de colores y valores parar las resistencias.
 
 ### 2. MARCO TEORICO
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/1.jpeg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/2.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/4.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/6.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/7.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/8.webp)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0001.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0002.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0003.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0004.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0005.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0006.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0007.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0008.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0009.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0010.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0011.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0012.jpg)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea1/blob/main/Foto/Tarea%201-%20Fund.%20de%20Circuitos%202022a_page-0013.jpg)
 
 ### 4. VIDEO
 
