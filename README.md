@@ -6,7 +6,7 @@
 
  - Lograr comprender el uso de las notaciones cientificas en la notaciones ceintificas con sus operaciones.
  - Resolver los problemas planteados por el libro.
- - Revisar los conceptos relacionados de la quimica del como fluye la electriidad de los lementos quimicos en temeperatura ambiente.
+ - Revisar los conceptos relacionados de la quimica del como fluye la electricidad de los lementos quimicos en temeperatura ambiente.
  - Lograr aprender el uso del voltímetro, amperímetro y ohmetro. 
 
 **Específicos**
